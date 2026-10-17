@@ -2,7 +2,7 @@
 
 A single-page marketing site for an AI workflow automation consulting business, with a static front-end (`index.html` + `static/`) and a serverless `/api/status` endpoint.
 
-Live: https://personal-ten-sandy.vercel.app
+Live: (not yet deployed)
 Repo: https://github.com/bstfsfx/comhk
 
 ## Features
