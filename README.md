@@ -2,7 +2,7 @@
 
 A single-page marketing site for an AI workflow automation consulting business, with a static front-end (`index.html` + `static/`) and a serverless `/api/status` endpoint.
 
-Live: (not yet deployed)
+Live: https://ai-workflow-iota-two.vercel.app
 Repo: https://github.com/bstfsfx/comhk
 
 ## Features
