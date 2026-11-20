@@ -783,21 +783,21 @@ p {
     overflow: hidden;
     mask-image: linear-gradient(
         to right,
-        black 0%,
+        transparent 0%,
+        transparent 6%,
         black 10%,
-        transparent 20%,
-        transparent 80%,
         black 90%,
-        black 100%
+        transparent 94%,
+        transparent 100%
     );
     -webkit-mask-image: linear-gradient(
         to right,
-        black 0%,
+        transparent 0%,
+        transparent 6%,
         black 10%,
-        transparent 20%,
-        transparent 80%,
         black 90%,
-        black 100%
+        transparent 94%,
+        transparent 100%
     );
 }
 
