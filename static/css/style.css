@@ -784,24 +784,6 @@ p {
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    mask-image: linear-gradient(
-        to right,
-        transparent 0%,
-        transparent 1%,
-        black 2%,
-        black 98%,
-        transparent 99%,
-        transparent 100%
-    );
-    -webkit-mask-image: linear-gradient(
-        to right,
-        transparent 0%,
-        transparent 1%,
-        black 2%,
-        black 98%,
-        transparent 99%,
-        transparent 100%
-    );
 }
 
 .sites-track {
@@ -907,8 +889,6 @@ p {
     .sites-viewport {
         overflow-x: auto;
         scroll-snap-type: x mandatory;
-        mask-image: none;
-        -webkit-mask-image: none;
     }
     .sites-group:last-child {
         display: none;
