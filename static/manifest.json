@@ -9,7 +9,7 @@
     "display": "standalone",
     "display_override": ["standalone", "minimal-ui", "browser"],
     "background_color": "#0f172a",
-    "theme_color": "#0f172a",
+    "theme_color": "#6366f1",
     "icons": [
         {
             "src": "/static/images/logo-192.png",
