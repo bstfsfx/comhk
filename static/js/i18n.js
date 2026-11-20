@@ -17,6 +17,7 @@ const translations = {
         // Case Studies
         "selected-work": "Case Studies",
         "click-to-explore": "Click to Explore →",
+        "sites-showcase-title": "Featured Sites",
         "live-demo": "Live Demo",
         "tech-react": "React",
         "tech-plotly": "Plotly",
@@ -149,6 +150,7 @@ const translations = {
         // Case Studies
         "selected-work": "案例研究",
         "click-to-explore": "點擊探索 →",
+        "sites-showcase-title": "精選網站",
         "live-demo": "前往觀看",
         "tech-react": "React",
         "tech-plotly": "Plotly",
@@ -281,6 +283,7 @@ const translations = {
         // Case Studies
         "selected-work": "導入事例",
         "click-to-explore": "クリックして探索 →",
+        "sites-showcase-title": "注目のサイト",
         "live-demo": "デモを見る",
         "tech-react": "React",
         "tech-plotly": "Plotly",
