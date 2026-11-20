@@ -917,6 +917,15 @@ p {
 
 /* Responsive tile widths */
 @media (max-width: 768px) {
+    .sites-viewport {
+        gap: 0.75rem;
+    }
+    .sites-group {
+        gap: 0.75rem;
+    }
+    .sites-showcase {
+        margin: 1.5rem 0 2rem;
+    }
     .site-tile {
         flex: 0 0 240px;
     }
@@ -926,11 +935,33 @@ p {
 }
 
 @media (max-width: 480px) {
+    .sites-viewport {
+        gap: 0.5rem;
+    }
+    .sites-group {
+        gap: 0.5rem;
+    }
+    .sites-showcase {
+        margin: 1rem 0 1.5rem;
+    }
     .site-tile {
         flex: 0 0 200px;
     }
     .site-tile img {
         height: 120px;
+    }
+}
+
+@media (max-width: 360px) {
+    .site-tile {
+        flex: 0 0 160px;
+    }
+    .site-tile img {
+        height: 100px;
+    }
+    .site-tile-label {
+        font-size: 0.75rem;
+        padding: 0.5rem;
     }
 }
 
