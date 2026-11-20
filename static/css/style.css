@@ -802,6 +802,11 @@ p {
     animation: sites-scroll-reverse 50s linear infinite;
 }
 
+/* Third row: left → right content moves left, slower (parallax depth) */
+.sites-track--parallax {
+    animation: sites-scroll-forward 100s linear infinite;
+}
+
 @keyframes sites-scroll-forward {
     from {
         transform: translate3d(0%, 0, 0);
