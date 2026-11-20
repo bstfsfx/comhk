@@ -132,7 +132,15 @@ const translations = {
         "form-submit": "Send Message",
         "form-success": "Thank you! Your message has been sent successfully.",
         "form-error": "Failed to send message. Please try again later.",
-        "form-blocked": "Submission blocked."
+        "form-blocked": "Submission blocked.",
+
+        // Social Media
+        "social-follow": "Follow us",
+        "social-facebook": "Facebook",
+        "social-instagram": "Instagram",
+        "social-threads": "Threads",
+        "social-whatsapp": "WhatsApp",
+        "social-behance": "Behance"
     },
 
     "zh-TW": {
@@ -265,7 +273,15 @@ const translations = {
         "form-submit": "發送訊息",
         "form-success": "感謝您！您的訊息已成功發送。",
         "form-error": "訊息發送失敗，請稍後再試。",
-        "form-blocked": "提交已被阻止。"
+        "form-blocked": "提交已被阻止。",
+
+        // Social Media
+        "social-follow": "關注我們",
+        "social-facebook": "Facebook",
+        "social-instagram": "Instagram",
+        "social-threads": "Threads",
+        "social-whatsapp": "WhatsApp",
+        "social-behance": "Behance"
     },
 
     "ja": {
@@ -398,7 +414,15 @@ const translations = {
         "form-submit": "送信",
         "form-success": "ありがとうございます！メッセージは正常に送信されました。",
         "form-error": "メッセージの送信に失敗しました。後でもう一度お試しください。",
-        "form-blocked": "送信はブロックされました。"
+        "form-blocked": "送信はブロックされました。",
+
+        // Social Media
+        "social-follow": "フォローする",
+        "social-facebook": "Facebook",
+        "social-instagram": "Instagram",
+        "social-threads": "Threads",
+        "social-whatsapp": "WhatsApp",
+        "social-behance": "Behance"
     }
 };
 
